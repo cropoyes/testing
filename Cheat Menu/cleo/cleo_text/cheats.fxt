@@ -1,0 +1,258 @@
+CHT1 Senjata
+CHT2 Cuaca
+CHT3 Level Buronan
+CHT4 Cheat Waktu
+CHT5 Cheat Penduduk
+CHT6 Cheat Kendaraan
+CHT7 Spawn Kendaraan
+CHT8 Cheat Pemain
+CHT9 Cheat Lalu lintas
+CHT10 Cheat Lainnya
+CHT11 Cheat
+CHT12 Senjata
+CHT13 Senjata Jarak Dekat
+CHT14 Pistol
+CHT15 Skill Rendah
+CHT16 Skill Gangstar
+CHT17 Skill Menembak Tinggi
+CHT19 Simpan Game
+CHT20 Gunakan arah panah kiri dan kanan untuk memilih Cuaca. Tekan ~k~~PED_SPRINT~ untuk memilih, dan ~k~~VEHICLE_ENTER_EXIT~ untuk membatalkan.
+CHT21 Amunisi Maksimum
+CHT22 Amunisi Tak Terbatas
+CHT23 Terapkan Level Buronan
+CHT24 Hapus Level Buronan
+CHT25 Tidak Pernah Diburon
+CHT26 Tekan tombol 1-6 untuk menerapkan level buronan, atau ~k~~VEHICLE_ENTER_EXIT~ untuk membatalkan.
+CHT27 Percepat
+CHT28 Normal
+CHT29 Perlambat
+CHT30 Pejalan Kaki Rusuh
+CHT31 Pejalan Kaki Menyerang CJ
+CHT32 Pejalan Kaki Memiliki Senjata
+CHT33 Rekrut Siapa Saja: 9mm
+CHT34 Rekrut Siapa Saja: AK-47
+CHT35 Rekrut Siapa Saja: Rockets
+CHT36 Handling Sempurna
+CHT37 Mengendarai Mobil Diatas Air
+CHT38 Mobil Terbang
+CHT39 Loncatan Tinggi (Sepeda)
+CHT40 Mobil Kebal
+CHT41 Nitro
+CHT42 Mobil Melayang
+CHT43 Menggunakan Senjata Didalam Mobil
+CHT44 Kapal Terbang
+CHT45 Tekan ~k~~VEHICLE_ENTER_EXIT~ Ketika Selesai.
+CHT46 Gunakan arah kiri dan kanan untuk memutar, dan tekan arah atas ketika selesai
+CHT47 Teleportasi Ke Sasaran
+CHT48 Cheat Gang
+CHT49 Gang di San Fierro
+CHT50 Gang di Las Venturas
+CHT51 Gang di Country & Desert
+CHT52 Munculkan Ballas
+CHT53 Munculkan Vagos
+CHT54 Munculkan Groves
+CHT55 Aktifkan Perang Gang
+CHT56 Buka Semua Pulau
+CHT57 Darah & Armor Penuh
+CHT58 Darah Maksimum
+CHT59 Armor Maksimum
+CHT60 Status
+CHT61 Darah Tak Terbatas
+CHT62 Uang
+CHT63 Lari Tak Terbatas
+CHT64 Senjata Tetap
+CHT65 Lemak: ~1~
+CHT66 Energi: ~1~
+CHT67 Tenaga: ~1~
+CHT68 Pikiran Mesum: ~1~
+CHT69 Skill Berkendara: ~1~
+CHT70 Skill Terbang: ~1~
+CHT71 Skill Sepeda Motor: ~1~
+CHT72 Skill Sepeda: ~1~
+CHT73 Keberuntungan: ~1~
+CHT74 Respect: ~1~
+CHT75 Gunakan arah panah kiri dan kanan untuk mengganti status, arah panah atas dan bawah untuk mengganti status, dan ~k~~PED_SPRINT~ ketika selesai.
+CHT76 Tidak Pernah Lapar
+CHT77 $~1~
+CHT78 Gunakan arah panah kiri dan kanan untuk memilih jumlah, tekan shift dan panah untuk menambah kecepatan, dan tekan panah atas ketika selesai.
+CHT79 Oksigen Tak Terbatas
+CHT80 Shotgun
+CHT81 SMG
+CHT82 Assault Rifle
+CHT83 Rifle
+CHT84 Senjata Berat
+CHT85 Senjata Lemparan
+CHT86 Yang Lain
+CHT87 Yang Lain (2)
+CHT88 Hadiah
+CHT89 Brass Knuckles
+CHT90 Tongkat Golf
+CHT91 Tongkat Polisi
+CHT92 Pisau
+CHT93 Pentungan Baseball
+CHT94 Sekop
+CHT95 Tongkat Billiar
+CHT96 Katana
+CHT97 Gergaji Mesin
+CHT98 Pistol
+CHT99 Silenced Pistol
+CH100 Desert Eagle
+CH101 Shotgun
+CH102 Sawn-Off Shotgun
+CH103 Combat Shotgun
+CH104 Tec-9
+CH105 Micro-SMG
+CH106 SMG
+CH107 AK-47
+CH108 M4
+CH109 Rifle
+CH110 Sniper Rifle
+CH111 Rocket Launcher
+CH112 Heat Seeking Rocket Launcher
+CH113 Flame Thrower
+CH114 Minigun
+CH115 Grenade
+CH116 Molotov
+CH117 Bom Gas
+CH118 Satchel Charges
+CH119 Sprai
+CH120 Pemadam
+CH121 Kamera
+CH122 Nightvision Goggles
+CH123 Thermal Goggles
+CH124 Parasut
+CH125 Dildo Panjang
+CH126 Short Dildo
+CH127 Long Vibrator
+CH128 Short Vibrator
+CH129 Bunga
+CH130 Tongkat
+CH131 Jetpack
+CH132 Mobil Tak Terlihat
+CH133 Lampu Selalu Hijau
+CH134 Pengemudi Agresif
+CH135 Lalulintas Pink
+CH136 Lalulintas Hitam
+CH137 Sepeda
+CH138 Perahu
+CH139 Off-Road
+CH140 Sedan
+CH141 Pesawat
+CH142 Helikopter
+CH143 Industri
+CH144 Cheat ~g~Aktif~w~
+CH145 Cheat ~r~Dinonaktifkan~w~
+CH146 Servis Publik
+CH147 Mobil Sport
+CH148 Lowrider
+CH149 Mobil Mahal
+CH150 Lainnya
+CH151 Set 1
+CH152 Set 2
+CH153 Set 3
+CH154 Aksesoris
+CH155 Police (LS)
+CH156 Police (SF)
+CH157 Police (LV)
+CH158 Trailer Bagasi 1
+CH159 Trailer Bagasi 2
+CH160 Tangga Pesawat
+CH161 Peralatan Pertanian
+CH162 Peralatan Kebersihan
+CH163 Trailer 1
+CH164 Trailer 2
+CH165 Trailer 3
+CH166 $1
+CH167 $10
+CH168 $100
+CH169 $1000
+CH170 $10000
+CH171 $100000
+CH172 $1000000
+CH173 -$1
+CH174 -$10
+CH175 -$100
+CH176 -$1000
+CH177 -$10000
+CH178 -$100000
+CH179 -$1000000
+CH180 Memberikan Uang
+CH181 Mendapat Uang
+CH182 Los Santos
+CH183 Countryside
+CH184 San Fierro
+CH185 Desert
+CH186 Las Venturas
+CH187 Minigames
+CH188 Memilih Misi
+CH189 Big Smoke
+CH190 Ryder
+CH191 Sweet
+CH192 Cesar
+CH193 C.R.A.S.H.
+CH194 OG Loc
+CH195 Catalina
+CH196 The Truth
+CH197 Garage
+CH198 Wu Zi Mu
+CH199 Wang Cars
+CH200 Zero
+CH201 Toreno
+CH202 Four Dragons
+CH203 Caligula's
+CH204 Madd Dogg
+CH205 Sweet 2
+CH206 Mansion
+CH207 Airfield
+CH208 They Crawled From Uranus
+CH209 Dualuty
+CH210 Go Go Space Monkey
+CH211 Let's Get Ready To Bumble
+CH212 Off-Track Betting
+CH213 Kerusuhan
+CH214 End of the Line Pt. 1
+CH215 End of the Line Pt. 2
+CH216 End of the Line Pt. 3
+CH217 Loco Syndicate
+CH218 Ambil Gambar
+CH219 Gunakan arah panah kiri dan kanan untuk memilih warna utama, dan panah atas dan bawah untuk memilih warna ke-2. Tekan ~k~~VEHICLE_ACCELERATE~ ketika selesai.
+CH220 Perbaiki Kendaraan
+CH221 Mobil Tak Terlihat
+CH222 Tambahkan Hidrolik
+CH223 Tambahkan Nitro
+CH224 Mobil Menjadi Berat
+CH225 Ganti Warna Mobil
+CH226 Ganti Karakter
+CH227 Gunakan arah panah kiri dan kanan untuk memilih karakter, dan tekan arah panah atas ketika selesai.
+CH228 Kota Sepi
+CH229 Akses Semua Interior
+CH230 Gaya Bertengkar
+CH231 Regular
+CH232 Normal
+CH233 Petinju
+CH234 Karate
+CH235 Professional
+CH236 Sekop
+CH237 Pisau
+CH238 Pedang
+CH239 Gergaji Mesin
+CH240 Dildo
+CH241 Gaya Pistol
+CH242 Hentikan Waktu
+CH243 Gunakan arah panah untuk pindah ke sekeliling, dan WASD untuk mengontrol tinggi dan rotasi. Tekan ~k~~VEHICLE_ENTER_EXIT~ ketika selesai.
+CH244 Mengatur Waktu
+CH245 Gunakan arah panah kiri dan kanan untuk mengganti jam, arah panah atas untuk mengatur menit, dan shift untuk mengatur hari. Tekan ~k~~VEHICLE_ENTER_EXIT~ ketika selesai.
+CH246 Mengatur Amunisi
+CH247 Gunakan arah panah kiri dan kanan untuk mengganti senjata, arah panah atas dan bawah untuk mengatur amunisi, dan shift untuk menambah kecepatan. Tekan ~k~~VEHICLE_ENTER_EXIT~ ketika selesai.
+CH248 Membuka Kunci Kendaraan Terdekat
+CH249 Mengunci Kendaraan Terdekat
+CH250 Kontrol Senjata Didalam Mobil
+CH251 Tekan ~k~~VEHICLE_HORN~ untuk keluar.
+CH252 Level Buronan
+CH253 Mengatur Area Perang Gang
+CH254 Gunakan arah panah kiri dan kanan untuk mengganti gang, arah panah atas dan bawah untuk mengatur luas area, dan ~k~~VEHICLE_ENTER_EXIT~ ketika selesai.
+CH255 Grove Street: ~1~
+CH256 Vagos: ~1~
+CH257 Ballas: ~1~
+CH258 Kendaraan Tidak Terbalik
+CH259 Tidak Pernah Jatuh
